@@ -14,7 +14,7 @@
           <mxGeometry x="270" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arPDtO0HMjDz3PJoCnNt-4" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:9.0pt;&lt;br/&gt;line-height:125%;font-family:&amp;quot;宋体&amp;quot;,serif;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;研究目的&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="270" width="80" height="30" as="geometry" />
+          <mxGeometry x="391.25" y="270" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arPDtO0HMjDz3PJoCnNt-5" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:9.0pt;&lt;br/&gt;line-height:125%;font-family:&amp;quot;宋体&amp;quot;,serif;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;研究意义&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="270" width="80" height="30" as="geometry" />
@@ -72,9 +72,6 @@
         </mxCell>
         <mxCell id="DPVLXHH7lzDEAhvVOXkm-13" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:9.0pt;&lt;br/&gt;line-height:125%;font-family:&amp;quot;宋体&amp;quot;,serif;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;解决问题&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="490" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DPVLXHH7lzDEAhvVOXkm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.939;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="arPDtO0HMjDz3PJoCnNt-4" target="arPDtO0HMjDz3PJoCnNt-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
