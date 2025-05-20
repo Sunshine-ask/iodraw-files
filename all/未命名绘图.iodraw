@@ -43,6 +43,9 @@
         <mxCell id="arPDtO0HMjDz3PJoCnNt-114" value="&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;理论研究分析&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="210" width="105" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="DPVLXHH7lzDEAhvVOXkm-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="arPDtO0HMjDz3PJoCnNt-117" target="DPVLXHH7lzDEAhvVOXkm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="arPDtO0HMjDz3PJoCnNt-117" value="&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;国内外公交研究现状综述&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="443.75" y="350" width="112.5" height="50" as="geometry" />
         </mxCell>
