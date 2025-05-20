@@ -118,10 +118,10 @@
           <mxGeometry x="110" y="600" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPVLXHH7lzDEAhvVOXkm-12" value="&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;基础研究&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="340" width="90" height="30" as="geometry" />
+          <mxGeometry x="110" y="340" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPVLXHH7lzDEAhvVOXkm-13" value="&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;解决问题&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="795" width="90" height="30" as="geometry" />
+          <mxGeometry x="110" y="795" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPVLXHH7lzDEAhvVOXkm-16" value="&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;结语&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="960" width="90" height="30" as="geometry" />
@@ -137,6 +137,9 @@
         </mxCell>
         <mxCell id="DPVLXHH7lzDEAhvVOXkm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.428;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DPVLXHH7lzDEAhvVOXkm-7" target="DPVLXHH7lzDEAhvVOXkm-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPVLXHH7lzDEAhvVOXkm-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
